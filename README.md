@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0322-coin-change) |
 ## Breadth-First Search
 |  |
@@ -70,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0209-minimum-size-subarray-sum) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
