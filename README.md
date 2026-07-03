@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0042-trapping-rain-water) |
 | [0322-coin-change](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0322-coin-change) |
+| [0643-maximum-average-subarray-i](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -58,4 +59,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
