@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0209-minimum-size-subarray-sum) |
+| [0213-house-robber-ii](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0322-coin-change) |
 | [0643-maximum-average-subarray-i](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0977-squares-of-a-sorted-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0322-coin-change) |
 ## Breadth-First Search
 |  |
