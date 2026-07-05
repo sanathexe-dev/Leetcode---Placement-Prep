@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0053-maximum-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
