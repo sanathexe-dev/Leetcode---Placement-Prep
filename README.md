@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0198-house-robber) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Two Pointers
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
