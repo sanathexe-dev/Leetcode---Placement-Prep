@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0125-valid-palindrome) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
