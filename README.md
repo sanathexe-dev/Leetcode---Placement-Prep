@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0322-coin-change) |
+| [0496-next-greater-element-i](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0746-min-cost-climbing-stairs) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,11 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0739-daily-temperatures) |
 ## String
 |  |
