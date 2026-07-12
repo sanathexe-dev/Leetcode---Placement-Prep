@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0643-maximum-average-subarray-i) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/1331-rank-transform-of-an-array) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/1331-rank-transform-of-an-array) |
 ## Greedy
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0347-top-k-frequent-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -145,4 +149,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0062-unique-paths) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
