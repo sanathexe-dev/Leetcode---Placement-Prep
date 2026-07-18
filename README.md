@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0746-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0070-climbing-stairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Memoization
 |  |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0347-top-k-frequent-elements) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
