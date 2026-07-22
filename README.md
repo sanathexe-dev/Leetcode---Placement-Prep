@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0567-permutation-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Two Pointers
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0125-valid-palindrome) |
+| [0567-permutation-in-string](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |
