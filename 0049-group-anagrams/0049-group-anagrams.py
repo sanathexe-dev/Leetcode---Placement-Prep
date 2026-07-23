@@ -8,14 +8,6 @@ class Solution:
             res[tuple(count)].append(i)
         return list(res.values())
 
-        res=defaultdict(list)
-        for c in strs:
-            count=[0]*26
-            for i in c:
-                count[ord(i)-97]+=1
-            res[tuple(count)].append(c)
-        return list(res.values())
-
 
 
 
