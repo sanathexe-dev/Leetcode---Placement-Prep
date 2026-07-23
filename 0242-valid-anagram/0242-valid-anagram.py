@@ -4,12 +4,11 @@ class Solution:
             return False
         count1=[0]*26
         count2=[0]*26
-
-        for i in range(len(s)):
-            count1[ord(s[i])-97]+=1
-            count2[ord(t[i])-97]+=1
+        for i in s:
+            count1[ord(i)-97]+=1
+        for i in t:
+            count2[ord(i)-97]+=1
         if count1==count2:
             return True
-        else:
-            return False
+        return False
         
