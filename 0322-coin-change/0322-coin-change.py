@@ -10,8 +10,5 @@ class Solution:
                     break
                 minn=min(minn,dp[diff]+1)
             dp[i]=minn
-        if dp[amount]!=float("inf"):
-            return dp[amount]
-        else:
-            return -1
+        return dp[-1] if dp[-1]!=float("inf") else -1
 
