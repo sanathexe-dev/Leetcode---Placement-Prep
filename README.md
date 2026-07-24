@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0746-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0977-squares-of-a-sorted-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
