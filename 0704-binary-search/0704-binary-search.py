@@ -16,6 +16,20 @@ class Solution:
         return -1
 
 
+        l=0
+        r=len(nums)-1
+        while l<=r:
+            mid=l+(r-l)//2
+
+            if nums[mid]==target:
+                return mid
+            elif nums[mid]>target:
+                r-=1
+            else:
+                l+=1
+        return -1
+
+
 
 
         
