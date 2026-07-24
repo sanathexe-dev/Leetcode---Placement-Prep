@@ -1,8 +1,7 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-
         stk=[]
-        cto={"]":"[",")":"(","}":"{"}
+        cto={")":"(","]":"[","}":"{"}
         for i in s:
             if i in cto:
                 if stk and stk[-1]==cto[i]:
