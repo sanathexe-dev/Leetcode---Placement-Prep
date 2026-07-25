@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0424-longest-repeating-character-replacement) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0202-happy-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Memoization
