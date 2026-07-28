@@ -7,8 +7,8 @@ class Solution:
             while s[r] in h:
                 h.remove(s[l])
                 l+=1
-            res=max(res,r-l+1)
             h.add(s[r])
+            res=max(res,r-l+1)
         return res
 
 
