@@ -1,14 +1,18 @@
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        res=[-1]*len(nums1)
+
+
         numsidx={n:i for i,n in enumerate(nums1)}
+        res=[-1]*len(nums1)
         stk=[]
         for i in range(len(nums2)):
-            cur=nums2[i]
-            while stk and stk[-1]<cur:
+            while stk and nums2[i]>stk[-1]:
                 val=stk.pop()
                 idx=numsidx[val]
-                res[idx]=cur
-            if cur in numsidx:
-                stk.append(cur)
+                res[idx]=nums2[i]
+            if nums2[i] in numsidx:
+                stk.append(nums2[i])
         return res
+
+
+
