@@ -1,7 +1,7 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        count=[0]*26
         res=0
+        count=[0]*26
         l=0
         for r in range(len(s)):
             count[ord(s[r])-65]+=1
@@ -10,7 +10,6 @@ class Solution:
                 l+=1
             res=max(res,r-l+1)
         return res
-
 
 
             
