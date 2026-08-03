@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0877-stone-game) |
 | [1668-maximum-repeating-substring](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/1668-maximum-repeating-substring) |
 ## Breadth-First Search
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0202-happy-number) |
+| [0877-stone-game](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Memoization
@@ -215,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/1668-maximum-repeating-substring) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
