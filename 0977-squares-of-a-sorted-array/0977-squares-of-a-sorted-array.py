@@ -12,6 +12,7 @@ class Solution:
                 res[i]=nums[r]**2
                 r-=1
         return res
+
                 
         
         
