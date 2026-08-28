@@ -3,11 +3,15 @@ class Solution:
         h={}
         for i in range(len(nums)):
             com=target-nums[i]
+
             if com in h:
                 return [i,h[com]]
+            
             h[nums[i]]=i
-        return -1
+        return 0
+            
+        
         
 
         
-        
+    
