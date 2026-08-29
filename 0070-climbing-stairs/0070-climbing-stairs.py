@@ -1,9 +1,9 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
         if n==1:
-            return 1
+            return n
         if n==2:
-            return 2
+            return n
         dp=[0]*n
         dp[0]=1
         dp[1]=2
