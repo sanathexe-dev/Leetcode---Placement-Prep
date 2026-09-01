@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0704-binary-search) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0877-stone-game) |
 | [1668-maximum-repeating-substring](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/1668-maximum-repeating-substring) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -237,8 +240,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0322-coin-change) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/sanathexe-dev/Leetcode---Placement-Prep/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
