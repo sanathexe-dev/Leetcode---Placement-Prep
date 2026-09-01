@@ -2,12 +2,13 @@ class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         res,sol=[],[]
         nums=candidates
+
         def backtrack(i,cur_sum):
             if cur_sum==target:
                 res.append(sol.copy())
                 return
             if cur_sum>target or i==len(nums):
-                return
+                return 
             
             backtrack(i+1,cur_sum)
             sol.append(nums[i])
@@ -15,6 +16,6 @@ class Solution:
             sol.pop()
         backtrack(0,0)
         return res
-        
+
         
         
